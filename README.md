@@ -1,2 +1,2 @@
 # polls
-A practice using Django
+A Django practice
