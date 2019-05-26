@@ -1,2 +1,2 @@
 # Hogwarts House
-Which Hogwarts house are you in?
+Which house are you in?
