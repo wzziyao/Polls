@@ -1,2 +1,2 @@
-# polls
-A Django practice
+# Hogwarts House
+Which Hogwarts house are you in?
